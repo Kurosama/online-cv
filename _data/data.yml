@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: pellin.alessio@gmail.com
     phone: +39 320 1577414
-    website: alessiopellin.it
+    website: www.alessiopellin.it
     linkedin: alessio-pellin-2b167755
     github: kurosama
     gitlab: kurosama
@@ -25,16 +25,16 @@ sidebar:
 
     languages:
       - idiom: Italiano
-        level: Native
+        level: Madrelingua
 
       - idiom: Inglese
-        level: Professional
+        level: Tecnico
 
     interests:
       - item: Domotica
         link:
 
-      - item: ELettronica
+      - item: Elettronica
         link:
 
       - item: Musica
@@ -72,29 +72,29 @@ experiences:
       time: 2014 - Present
       company: D.G.M. S.r.l., Udine (UD)
       details: |
-        Sviluppo personalizzazioni per l'ERP Microsoft Dynamics NAV (standard o dei vari add-on D.G.M. ed EOS Solution) e integrazione con altri sistemi esterni all'ERP (tramire file, database altre interfacc) 
+        Sviluppo di personalizzazioni per l'ERP Microsoft Dynamics NAV (standard o dei vari add-on D.G.M. ed EOS Solution) e integrazione con altri sistemi esterni all'ERP (tramire file, database altre interfaccia). |
         Assistenza al cliente nella gestione di errori, o anomalie, e sviluppo di modifiche e/o miglioramenti
 
     - role: Sviluppatore software
       time: 2012 - 2014
       company: Semplitech s.r.l., Udine (UD)
       details: |
-        Sviluppo, manutenzione e gestione di varie Web application.
+        Sviluppo, manutenzione e gestione di varie Web application. |
         Creazione e gestioni di vari siti web.
 
     - role: Supporto informatico
       time: 2011 - 2012
       company: A.R.Di.S.S. (Ex E.R.Di.S.U.) Udine (UD)
       details: |
-        Supporto informatico per l'ufficio, gestione della rete interna mediante l'interfaccia web del server 
-        ZeroShell, gestione e manutenzione del sito dell'ente (CMS WordPress).
+        Supporto informatico per l'ufficio, gestione della rete interna mediante l'interfaccia web del server |
+        ZeroShell, gestione e manutenzione del sito dell'ente (CMS WordPress). |
         Controllo, analisi e creazione di statistiche dei servizi erogati dall'ente (Borse di studio, agevolazioni mensa, ecc).
 
     - role: Impiegato d'ufficio
       time: 2006 - 2006
       company: Service 2000 S.r.l. , Santa Giustina (BL)
       details: |
-        Ricezione ordini di vendita, gestione magazzino e creazione dei DDT con AS400.
+        Ricezione ordini di vendita, gestione magazzino e creazione dei DDT con AS400.|
         Smistamento magazzino e controllo degli ordini di consegna giornalieri.
         
     - role: Impiegato d'ufficio
@@ -105,48 +105,45 @@ experiences:
         
 projects:
     title: Progetti
-    intro: >
+    intro: 
       Questi sono alcuni dei miei progetti che ho sviluppato nel mio tempo libero.
 
     assignments:
       - title: Mnemone_bot
-        link: "t.me/Mnemone_bot"
+        link: "https://github.com/Kurosama/Mnemone_bot"
         tagline: "Bot telegram per la gestione dei promemoria"
 
       - title: ARDA_Project
         link: "https://github.com/Kurosama/ARDA_Project"
-        tagline: "Implementazione dell'algoritmo ARDA per il calcolo percorsi "
+        tagline: "Algoritmo ARDA per il calcolo percorsi "
 
 skills:
     title: Conoscenze
 
     toolset:
       - name: Microsoft Navision
-        level: 70%
+        level: 60%
 
       - name: Html5, Php, Css, Javascript,
-        level: 60%
+        level: 50%
 
       - name: SQL, NoSql
-        level: 60%
+        level: 50%
 
       - name: Java, C#, Python, Ruby
         level: 40%
 
       - name: Framework web
-        level: 40%
+        level: 30%
 
       - name: WordPress, Joomla, Drupal
-        level: 40%
+        level: 25%
         
       - name: VMWare, VirtualBox, Docker
-        level: 30%
+        level: 15%
         
       - name: Android & iOS
-        level: 20%
+        level: 15%
       
       - name: Adobe Illustrator & PhotoShop
-        level: 20%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        level: 15%
